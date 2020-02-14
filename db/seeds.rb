@@ -1,0 +1,1 @@
+david = new Person("David")
